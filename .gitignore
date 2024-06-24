@@ -1,0 +1,5 @@
+django_static/www
+django_static/staticfiles
+*__pycache__
+django_static/.venv
+django_static/static
